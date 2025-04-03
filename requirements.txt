@@ -1,0 +1,10 @@
+streamlit
+requests
+fastapi
+pydantic
+textwrap
+dotenv
+agno
+uvicorn
+duckduckgo-search
+groq
